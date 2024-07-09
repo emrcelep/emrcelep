@@ -10,7 +10,7 @@
 
 ## 📫 Contact Me
 
-- **Email:** [emrcelep@example.com](mailto:emrecelepmain@gmail.com)
+- **Email:** [emrecelepmain@gmail.com](mailto:emrecelepmain@gmail.com)
 - **LinkedIn:** [linkedin.com/in/emrcelep](https://www.linkedin.com/in/emrcelep/)
 
 ## 🛠️ Technologies I Use
